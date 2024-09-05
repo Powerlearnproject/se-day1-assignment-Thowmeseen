@@ -57,9 +57,7 @@ Maintenance: Provide ongoing support, fixing defects, and implementing updates a
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
 Waterfall Methodology
-
 Linear, phase-by-phase approach
 Emphasizes predictability and stability
 Requirements are gathered upfront
